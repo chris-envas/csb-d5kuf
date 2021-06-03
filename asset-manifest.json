@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://chris-envas.github.io/csb-d5kuf/static/js/main.a55d6621.chunk.js",
+    "main.js.map": "https://chris-envas.github.io/csb-d5kuf/static/js/main.a55d6621.chunk.js.map",
+    "runtime-main.js": "https://chris-envas.github.io/csb-d5kuf/static/js/runtime-main.ee0944bd.js",
+    "runtime-main.js.map": "https://chris-envas.github.io/csb-d5kuf/static/js/runtime-main.ee0944bd.js.map",
+    "static/js/2.e5ab40f3.chunk.js": "https://chris-envas.github.io/csb-d5kuf/static/js/2.e5ab40f3.chunk.js",
+    "static/js/2.e5ab40f3.chunk.js.map": "https://chris-envas.github.io/csb-d5kuf/static/js/2.e5ab40f3.chunk.js.map",
+    "index.html": "https://chris-envas.github.io/csb-d5kuf/index.html",
+    "static/js/2.e5ab40f3.chunk.js.LICENSE.txt": "https://chris-envas.github.io/csb-d5kuf/static/js/2.e5ab40f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee0944bd.js",
+    "static/js/2.e5ab40f3.chunk.js",
+    "static/js/main.a55d6621.chunk.js"
+  ]
+}
